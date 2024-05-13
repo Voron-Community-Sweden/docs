@@ -2,4 +2,4 @@
 
 This is a wiki docs repository for the unofficial [Voron Design](https://vorondesign.com/) 3D printer community in Sweden. Content will follow in Swedish. The community itself is [found on Facebook here](https://www.facebook.com/groups/voronsweden).
 
-[Go to the wiki here](/Voron-Community-Sweden/docs/wiki).
+:fast_forward: [Go to the wiki](/Voron-Community-Sweden/docs/wiki)
